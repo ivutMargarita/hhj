@@ -858,57 +858,12 @@ opacity: 1;
     height: 17.5vh;
   }
  .karta{
-   margin-bottom: 2%;
+   margin-bottom: 1%;
  }
   .svrect_kafe,.svrect_act,.svrect_muzei,.svrect_parki{
     border-radius: 0px 0px 30px 30px;
   }
-  /* .c1:hover, .c2:hover, .c3:hover, .c4:hover{
-    height: 25vh;
-    transition-delay: 0.1s;
-  } */
-  /* .c1:hover .point_kafe, .c2:hover .point_act, .c3:hover .point_muzei, .c4:hover .point_parki{
-    height: 4%;
-    top: 7%;
-    transition-delay: 0.1s;
-  }
-  .c1:hover .wave_kafe, .c2:hover .wave_act{
-   bottom: 69%;
-   transition-delay: 0.3s;
-  }
-  .c3:hover .wave_muzei, .c4:hover .wave_parki{
-    bottom: 69%;
-    transition-delay: 0.1s;
-   }
-  .c1:hover .svrect_kafe, .c2:hover .svrect_act{
-    height: 60%;
-    transition-delay: 0.3s;
-  }
-  .c3:hover .svrect_muzei, .c4:hover .svrect_parki{
-    height: 60%;
-    transition-delay: 0.1s;
-  }
-  .c1:hover .text_kafe, .c4:hover .text_parki{
-    bottom: 45%;
-    font-size: 1px;
-  }
-  .c2:hover .text_act, .c3:hover .text_muzei{
-    width:20%;
-    bottom: 16%;
-    font-size: 1px;
-  }
-  .c1:hover .text_kafe, .c2:hover .text_act{
-    font-size: 1px;
-    transition-delay: 0.3s;
-  }
-  .c3:hover .text_muzei, .c4:hover .text_parki{
-    transition-delay: 0.1s;
-    font-size: 1px;
-  }
-  .c2:hover .text_act{
-    left: 2%;
-    font-size: 1px;
-  }
+  
   .c1:hover .info_kafe, .c2:hover .info_act{
     opacity: 1;
     transition-delay: 0.6s;
@@ -917,12 +872,7 @@ opacity: 1;
   .c3:hover .info_muzei, .c4:hover .info_parki{
     opacity: 1;
     transition-delay: 0.3s;
-  } */
-   /* .info_kafe, .info_act, .info_muzei, .info_parki{
-    font-size: 8px;
-    bottom: 6%;
-    opacity: 0;
-  } */
+  } 
   .info_kafe, .info_act, .info_muzei {
     font-size: 8px;
     bottom: 5.7%;
