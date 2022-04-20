@@ -793,7 +793,7 @@ opacity: 1;
     margin: 9.2vh 0 0 0;
 }
 .banner-content {
-  height: 40%;
+  height: 33%;
 }
   .arrow-8{
     width: 1vh;
@@ -858,6 +858,7 @@ opacity: 1;
     height: 17.5vh;
   }
  .karta{
+   height: 41%;
    margin-bottom: 1%;
  }
   .svrect_kafe,.svrect_act,.svrect_muzei,.svrect_parki{
